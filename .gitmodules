@@ -1,0 +1,6 @@
+[submodule "HAE"]
+	path = HAE
+	url = https://github.com/erenaykrcn/HAE.git
+[submodule "HAE_demonstrator"]
+	path = HAE_demonstrator
+	url = https://github.com/erenaykrcn/HAE_demonstrator.git
